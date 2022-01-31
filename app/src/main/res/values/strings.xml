@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">Timefighter</string>
+  <string name="tap_me">Tap me! How many taps can you make in a second</string>
+  <string name="your_score">Your Score: %1$d</string>
+  <string name="time_left">Time left: %1$d</string>
+  <string name="description_of_button">How many times can you tap on the button
+    in a
+    minute</string>
+  <string name="about_title">Timefighter %1$s</string>
+  <string name="about_message">Created by SPIDER HUSSLE</string>
+  <string name="game_over_message">Time\'s up! Your score was:
+%1$d</string>
+</resources>
+
